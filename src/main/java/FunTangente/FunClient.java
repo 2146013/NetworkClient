@@ -7,7 +7,6 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-//ejercicio realizado en clase
 public class FunClient {
     public static void main(String[] args) throws IOException {
 
